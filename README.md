@@ -1,27 +1,75 @@
-# ForgeryDetectionAdmin
+# Project: Forgery Detection
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
+Forgery Detection Client is a web application that upload images from users, then using machine learning detects forgery in server and returns a message about the image forgery status.
 
-## Development server
+Forgery Detection Admin also a web application that shows statistics about images forgery detection analysed with machine learning.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Live Demo
 
-## Code scaffolding
+[Client Link](https://users-and-charts1.vercel.app/) .
+[Admin Link](https://users-and-charts1.vercel.app/) .
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Built With
 
-## Build
+- Angular.
+- chart.js.
+- ng2-charts.
+- Npm.
+- Html.
+- CSS.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Features:
 
-## Running unit tests
+- An interactive application that respond to user and admin interactions.
+- User have the access to uplaod images.
+- Admin will see statistics about images forgery detection.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Future Features:
 
-## Running end-to-end tests
+- Add user profile.
+- Add user registration and authentication.
+- display different types of charts.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+To get a local copy up and running follow these simple example steps.
 
-## Further help
+### Prerequisites
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Git.
+2. Code editor.
+3. browser.
+
+## How to run the program
+
+1. Open the terminal.
+
+2. Enter `git clone <missed-link>`.
+
+3. Navigate to the cloned repository.
+
+4. In the terminal cd into the repo.
+
+5. Run `npm install` in your terminal.
+
+6. Run `ng serve` in your terminal.
+
+7. Open [http://localhost:9000](http://localhost:9000) to view the browser.
+
+## Author(s)
+
+[Othmane Namani](https://github.com/othman-19/).  
+[Email: othmanenaamani@gmail.com](mailto:othmanenaamani@gmail.com).  
+[Portfolio](https://othman-19.github.io/my_portfolio/).  
+[LinkedIn](https://www.linkedin.com/in/othman-namani/).  
+[twitter](https://twitter.com/ONaamani).  
+[DEV Community](https://dev.to/othman).  
+[Angel List](https://angel.co/othmane-namani).
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
